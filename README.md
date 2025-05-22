@@ -56,7 +56,9 @@ Contributions are welcome! If you have new prompts, test results, or analyses to
 
 This project is intended for educational and research purposes only. The information provided should not be used for malicious activities.
 
----
+## About Me
+I am an independent learner and security enthusiast currently exploring the safety boundaries of large language models. This project is part of my efforts to understand and contribute to AI model alignment and red teaming strategies.
+
 
 **Personal Introduction**
 
